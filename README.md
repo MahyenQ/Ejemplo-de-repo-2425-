@@ -24,3 +24,9 @@ este texto esta en *cursiva* y este también esta en _cursiva_
 + Elemento 3
 
 Siempre le damos un **entro** después de acabar la frase. 
+
+``# Encabezado´´
+</html> 
+[Enlace la web del cole](https://www.fje.edu/ca/fje "TEXTO OPCIONAL")
+
+
