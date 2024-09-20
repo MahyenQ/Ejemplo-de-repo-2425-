@@ -16,7 +16,7 @@ este texto esta en *cursiva* y este también esta en _cursiva_
 1. Primer elemento de la lista 
 	1. Primer subelemento 
 2. Segundo elemento de la lista 
-	2.Subelemnto
+	2.Subelemento
 3. Tercer elemento de la lista 
 
 * Elemento 1 
@@ -30,7 +30,9 @@ Siempre le damos un **entro** después de acabar la frase.
 [Enlace la web del cole](https://www.fje.edu/ca/fje "TEXTO OPCIONAL")
 
 
-![Cat](https://github.com/MahyenQ/Ejemplo-de-repo-2425-/blob/main/Cat.jpg "Titulo opcional")
+![Cat]( https://github.com/MahyenQ/Ejemplo-de-repo-2425-/blob/main/Cat.jpg "Titulo opcional")
+
+
 
 
 
