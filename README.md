@@ -22,3 +22,5 @@ este texto esta en *cursiva* y este también esta en _cursiva_
 * Elemento 1 
 - Elemento 2 
 + Elemento 3
+
+Siempre le damos un **entro** después de acabar la frase. 
