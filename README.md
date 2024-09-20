@@ -30,3 +30,8 @@ Siempre le damos un **entro** después de acabar la frase.
 [Enlace la web del cole](https://www.fje.edu/ca/fje "TEXTO OPCIONAL")
 
 
+![Cat](https://github.com/MahyenQ/Ejemplo-de-repo-2425-/blob/main/Cat.jpg "Titulo opcional")
+
+
+
+
