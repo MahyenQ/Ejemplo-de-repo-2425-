@@ -6,3 +6,6 @@ Encabezado 3 ###
 Encxabezado 4 ####
 Encabezado 5 #####
 Encabezado 6 ######
+
+este texto esta en *negrita* 
+este texto esta en _cursiva_
